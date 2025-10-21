@@ -1,5 +1,11 @@
 # 🕶️ LAB: AWS Least-Privilege Compliance Checker 
 
+<img width="1135" height="1127" alt="image" src="https://github.com/user-attachments/assets/4de4e1d9-6db4-43fd-95e7-fc6c74fba506" />
+
+<img width="500" height="925" alt="image" src="https://github.com/user-attachments/assets/4063524c-1b25-44ff-8314-d7919c28b9c6" />
+
+<img width="1325" height="540" alt="image" src="https://github.com/user-attachments/assets/92fa998d-f38c-471c-9a60-129871090ef8" />
+
 > “You take the blue pill — keep giving everyone `*:*` and hope for the best.  
 > You take the red pill — and I’ll show you how privilege actually works.”  
 > — Morpheus, Chief Least-Privilege Officer
